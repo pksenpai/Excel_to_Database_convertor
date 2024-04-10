@@ -1,4 +1,4 @@
-\____________README____________/
+\____________Excel to Database Convertor____________/
 
 > steps before running the program:
 
