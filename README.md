@@ -1,6 +1,6 @@
-\____________Excel to Database Convertor____________/
+# Excel to Database Convertor
 
-> steps before running the program:
+## steps before running the program:
 
 1- virtual environment(venv) & libraries:
 create a virtual environment, activate it then install libraries with commands blow:
@@ -47,7 +47,7 @@ run the code in shell with command blow:
 -now we have a mini ORM :D
 _________________________________________________________________
 
-> my preferences:
+## my preferences:
 - I preferred to write it mudolar for clean code if task didn't want the single file...(database.py, excel.py & main.py)
 - I trying to run long runtime processes on the database (sql) side
 Because SQL is faster than Python and helps to have a more efficient program
